@@ -28,8 +28,6 @@
 
 - :city_sunrise: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :zap: Fun fact: I speak 5 languages ( English:uk:, Russian:ru:, Ukrainian:ukraine:, Turkish:tr: and Azerbaijani:azerbaijan:).
-
 - :mailbox:How to reach me: ![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)
 ---
 

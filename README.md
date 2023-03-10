@@ -18,7 +18,6 @@
 ---
 
 ### :man_technologist: About Me : I am a Front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan:azerbaijan:
-- :telescope: I’m currently working on my portfolio.
 
 - :floppy_disk: You can find my projects here.
 

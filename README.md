@@ -11,9 +11,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="600" height="300"/>
-</div>
 
 ---
 
@@ -21,11 +18,7 @@
 
 - :floppy_disk: You can find my projects here.
 
-- :open_book: I’m currently learning Azure.
-
 - :elevator: I’m looking to collaborate on open source
-
-- :city_sunrise: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: ![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)
 ---

@@ -54,7 +54,7 @@
 ###
 <details>
   <summary><h3>:fire: My Stats :</h3></summary>
-  <div align="center">
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hasan-hasanzade&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
   
@@ -63,8 +63,7 @@
   
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-hasanzade&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-  
- </div>
+ 
 
   <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
   

@@ -51,9 +51,10 @@
 
 ---
 
-### :fire: My Stats :
-
-<div align="center">
+###
+<details>
+  <summary><h3>:fire: My Stats :</h3></summary>
+  <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hasan-hasanzade&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
   
@@ -78,3 +79,7 @@
   
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23212529&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 </div>
+
+</details>
+
+

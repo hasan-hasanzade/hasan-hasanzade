@@ -58,14 +58,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hasan-hasanzade&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
   
-  
-<br/>
-  
-  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hasan-hasanzade&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="hasan-hasanzade Github Stats">&nbsp;
-  
-  
-  
+   
 <br/>
   
   

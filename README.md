@@ -19,7 +19,7 @@
 
 - :elevator: I’m looking to collaborate on open source
 
-- :mailbox:How to reach me: ![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)
+- ✉️ How to reach me: hasan@hasanzade.net
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

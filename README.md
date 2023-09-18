@@ -13,7 +13,7 @@
 </div>
 ---
 
-### :man_technologist: About Me : I am a Front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan:azerbaijan:
+### :man_technologist: About Me : I am a Front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :floppy_disk: You can find my projects here www.hasanzade.net
 

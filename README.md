@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://miro.medium.com/max/1400/0*08Ge7j9DdoWx1KjA.gif" width="220"/>
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704230299/Animation_header_a6mog2.gif" width="100%"/>
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

@@ -7,7 +7,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=hasan-hasanzade&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hello World!!!
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=500&size=35&pause=1000&color=EABE7B&center=true&vCenter=true&random=false&width=435&height=80&lines=Hi+There!+%F0%9F%91%8B;I'm+Hasan+Hasanzade" alt="Typing SVG" /></a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>

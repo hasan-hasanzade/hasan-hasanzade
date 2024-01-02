@@ -12,7 +12,7 @@
 </h1>
 </div>
 ---
-<img src="https://miro.medium.com/max/1400/0*08Ge7j9DdoWx1KjA.gif](https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>
+<img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='20px'/>
 
 ### :man_technologist: About Me : I am a Front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 

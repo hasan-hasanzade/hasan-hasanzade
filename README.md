@@ -20,7 +20,7 @@
 - ✉️ How to reach me: hasan@hasanzade.net
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages, Frameworks and Tools :
 
 <div>
   <img style="background: white;" src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276180/html5_axmp6t.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;

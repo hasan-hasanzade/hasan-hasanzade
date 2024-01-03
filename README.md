@@ -10,7 +10,6 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=35&duration=4000&pause=1000&color=EABE7B&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!;I'm+Hasan+Hasanzade;I'm+ a Front-end+Developer" alt="Typing SVG" /></a>
 
 <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='1px'/>
-<img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="150px" height="150px" />
 ### :man_technologist: About Me : I am a Front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 

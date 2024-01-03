@@ -19,6 +19,7 @@
 
 - ✉️ How to reach me: hasan@hasanzade.net
 ---
+<img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" />
 
 ### :hammer_and_wrench: Languages, Frameworks and Tools :
 

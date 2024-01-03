@@ -12,6 +12,7 @@
 <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='1px'/>
 
 ### :man_technologist: About Me : I am a Front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" />
 
 - :floppy_disk: You can find my projects here www.hasanzade.net
 
@@ -19,7 +20,7 @@
 
 - ✉️ How to reach me: hasan@hasanzade.net
 ---
-<img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" />
+
 
 ### :hammer_and_wrench: Languages, Frameworks and Tools :
 

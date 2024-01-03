@@ -29,6 +29,7 @@
 
 <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>
 
+&nbsp;
 <div align='center'>
   <img style="background: white;" src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276180/html5_axmp6t.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276178/css3_x7fsyd.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -49,7 +50,7 @@
   <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276178/express_grwtie.svg" title="ExpressJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276175/mongodb_ejcqnu.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
-
+&nbsp;
 
 
 <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>

@@ -109,4 +109,8 @@
 
 </details>
 
-
+<p align="center">
+<a href="https://github.com/walidbosso">
+   <img alt="github-snake" src="https://raw.githubusercontent.com/hasan-hasanzade/hasan-hasanzade/output/github-snake-darkBlue.svg" />
+</a>
+</p>

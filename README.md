@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=hasan-hasanzade&style=flat&color=EABE7B&labelColor=%23242424" alt=""/>
 
 &nbsp;
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=35&duration=4000&pause=1000&color=EABE7B&center=true&vCenter=true&random=false&width=1100&height=70&lines=Hi+There!;I'm+Hasan;A+Front-end+Developer.;A+problem+solver.;An+innovative+thinker.;A......++cool+guy%3F;Ok.....++I'm+running+out+of+ideas...;Uhh...+you+can+scroll+down+to+see+my+projects+now...;Seriously%2C+my+projects+are+really+cool%2C+go+check+them+out...;You're+uh....++still+here%3F;Ok%2C+this+has+been+fun%2C+but+I'm+gonna+restart+the+loop+now...." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=EABE7B&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+There!;I'm+Hasan;A+Front-end+Developer.;A+problem+solver.;An+innovative+thinker.;A......++cool+guy%3F;Ok.....++I'm+running+out+of+ideas...;Uhh...+you+can+scroll+down+to+see+my+projects+now...;Seriously%2C+my+projects+are+really+cool%2C+go+check+them+out!;You're+uh....++still+here%3F;Ok%2C+this+has+been+fun%2C+but+I'm+gonna+restart+the+loop+now....;See+ya!+%3D)" alt="Typing SVG" /></a>
 
 <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>
 <h3>【 A B O U T 】</h3>

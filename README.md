@@ -1,20 +1,22 @@
 <div id="header" align="center">
   <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704230299/Animation_header_a6mog2.gif" width="100%"/>
-  <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=hasan-hasanzade&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=hasan-hasanzade&style=flat&color=EABE7B&labelColor=%23242424" alt=""/>
+
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=35&duration=4000&pause=1000&color=EABE7B&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!;I'm+Hasan+Hasanzade;I'm+ a Front-end+Developer" alt="Typing SVG" /></a>
 
 <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>
 <h3>【 A B O U T 】</h3>
- <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>                 
+ <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>   
 <img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="150" height="150" />
 
 <div align="left">
+
+- 👨‍💻 I’m currently working on web development technologies like `React`, `Vue` etc.
+  
+- 📚 I’m currently learning **React Native, Backend and Machine Learning technologies** 😅
+  
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
   
 - :floppy_disk: You can find my projects here www.hasanzade.net
 
@@ -22,6 +24,24 @@
 
 - ✉️ How to reach me: hasan@hasanzade.net
 </div>
+&nbsp;
+<p align="center">
+<img src="https://img.shields.io/badge/2405%20hrs%2023%20mins-%23EABE7B?style=flat&label=Code%20Time&labelColor=%23242424">
+<img src="https://img.shields.io/badge/3.1%20million%20lines%20of%20code-%23EABE7B?style=flat&label=From%20Hello%20World%20I've%20Written&labelColor=%23242424">
+</p>
+
+
+
+### Contact me:
+
+<p align="center">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23242424?style=flat-square&logo=linkedin&labelColor=%230A66C2"/></a>
+  <a href="https://www.hasanzade.net/portfolio.html" target="_blank"><img src="https://img.shields.io/badge/My%20Portfolio-%23242424?style=flat-square&logo=google%20chrome&logoColor=%23fff&labelColor=%23EABE7B" /></a>
+  <a href="mailto:hasan@hasanzade.net" target="_blank"><img src="https://img.shields.io/badge/Email%20Me-%23242424?style=flat-square&logo=gmail&logoColor=%23fff&labelColor=%23EA4335" /></a>
+  <a href="https://wa.me/994557112171?text=Hi Hasan,I hope you're doing well! I have a project idea that I would like to discuss with you." target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%23242424?style=flat-square&logo=whatsapp&logoColor=%23fff&labelColor=%2325D366" /></a>
+  <a href="https://t.me/hasanzade_web" target="_blank"><img src="https://img.shields.io/badge/Telegram-%23242424?style=flat-square&logo=telegram&logoColor=%23fff&labelColor=%2326A5E4" /></a><br>
+</p>
+
 
 <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>
 
@@ -71,11 +91,6 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-hasanzade&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
  
-
-  <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-  
-  
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23212529&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 
 </details>

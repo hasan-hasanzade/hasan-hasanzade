@@ -9,9 +9,9 @@
 <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>
 
 <h3>
-  <img align='left' src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704377363/930251_262647_vyblt6.png" width="25" height='25'/>
+  <img align='left' src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704377363/930251_262647_vyblt6.png" width="21" height='25'/>
   【 A B O U T 】
-  <img align='right' src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704377363/930251_262647_vyblt6.png" width="25" height='25'/>
+  <img align='right' src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704377363/930251_262647_vyblt6.png" width="21" height='25'/>
 </h3>
 
  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>   
@@ -52,9 +52,9 @@
 <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>
 
 <h3>
-  <img align='left' src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704377363/930251_262647_vyblt6.png" width="25" height='25'/>
+  <img align='left' src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704377363/930251_262647_vyblt6.png" width="21" height='25'/>
   【 S K I L L S 】
-  <img align='right' src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704377363/930251_262647_vyblt6.png" width="25" height='25'/>
+  <img align='right' src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704377363/930251_262647_vyblt6.png" width="21" height='25'/>
 </h3>
 
 <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>
@@ -86,9 +86,9 @@
 <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>
 
 <h3>
-  <img align='left' src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704377363/930251_262647_vyblt6.png" width="25" height='25'/>
+  <img align='left' src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704377363/930251_262647_vyblt6.png" width="21" height='25'/>
   【 S T A T S 】
-  <img align='right' src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704377363/930251_262647_vyblt6.png" width="25" height='25'/>
+  <img align='right' src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704377363/930251_262647_vyblt6.png" width="21" height='25'/>
 </h3>
 
 <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>

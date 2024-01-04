@@ -110,7 +110,7 @@
 </details>
 
 <p align="center">
-<a href="https://github.com/walidbosso">
+<a href="https://github.com/hasan-hasanzade">
    <img alt="github-snake" src="https://raw.githubusercontent.com/hasan-hasanzade/hasan-hasanzade/output/github-snake-darkBlue.svg" />
 </a>
 </p>

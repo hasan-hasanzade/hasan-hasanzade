@@ -96,15 +96,14 @@
   <summary>
   </summary>
 
+<p align="center">
+  <img width=100% src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasan-hasanzade&theme=dark'>
+  <img width=31% align="left" src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasan-hasanzade&theme=dark'>
+  <img width=31% align="center" src='http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasan-hasanzade&theme=dark&utcOffset=8'>
+  <img width=31% align="right" src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasan-hasanzade&theme=dark'>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hasan-hasanzade&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
-  
-   
-<br/>
-  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-hasanzade&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
- 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hasan-hasanzade&theme=great-gatsbyk&card_width=1000)](https://git.io/streak-stats)
+</p>
 
 
 </details>

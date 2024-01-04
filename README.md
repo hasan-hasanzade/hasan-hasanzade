@@ -7,7 +7,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=EABE7B&center=true&vCenter=true&random=false&width=1100&height=70&lines=Hi+There!;I'm+Hasan;A+Front-end+Developer.;A+problem+solver.;An+innovative+thinker.;A......++cool+guy%3F;Ok.....++I'm+running+out+of+ideas...;Uhh...+you+can+scroll+down+to+see+my+projects+now...;Seriously%2C+my+projects+are+really+cool%2C+go+check+them+out!;You're+uh....++still+here%3F;Ok%2C+this+has+been+fun%2C+but+I'm+gonna+restart+the+loop+now....;See+ya!+%3D)" alt="Typing SVG" /></a>
 
 <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>
-<h3>【 A B O U T 】</h3>
+
+<h3>
+  <img align='left' src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704377363/930251_262647_vyblt6.png" width="25" height='25'/>
+  【 A B O U T 】
+  <img align='right' src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704377363/930251_262647_vyblt6.png" width="25" height='25'/>
+</h3>
+
  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>   
 <img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="150" height="150" />
 
@@ -23,7 +29,6 @@
 
 - :elevator: I’m looking to collaborate on open source
 
-- ✉️ How to reach me: hasan@hasanzade.net
 </div>
 &nbsp;
 <p align="center">
@@ -46,7 +51,11 @@
 
 <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>
 
-<h3>【 S K I L L S 】</h3>
+<h3>
+  <img align='left' src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704377363/930251_262647_vyblt6.png" width="25" height='25'/>
+  【 S K I L L S 】
+  <img align='right' src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704377363/930251_262647_vyblt6.png" width="25" height='25'/>
+</h3>
 
 <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>
 
@@ -76,7 +85,11 @@
 
 <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>
 
-<h3>【 S T A T S】</h3>
+<h3>
+  <img align='left' src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704377363/930251_262647_vyblt6.png" width="25" height='25'/>
+  【 S T A T S 】
+  <img align='right' src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704377363/930251_262647_vyblt6.png" width="25" height='25'/>
+</h3>
 
 <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704222154/Animation_amgorb.gif" width="100%" height='2px'/>
 <details>

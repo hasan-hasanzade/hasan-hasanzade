@@ -21,7 +21,7 @@
 
 - 👨‍💻 I’m currently working on web development technologies like `React`, `Vue` etc.
   
-- 📚 I’m currently learning **React Native, Backend and Machine Learning technologies** 😅
+- 📚 I’m currently learning **React Native, Backend and Machine Learning technologies**
   
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
   

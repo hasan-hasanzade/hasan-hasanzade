@@ -62,7 +62,7 @@
 &nbsp;
 <div align='center'>
   <img style="background: white;" src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276180/html5_axmp6t.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276178/css3_x7fsyd.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276178/css3_x7fsyd.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276177/sass_xmwjzs.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276178/bootstrap_trdqqy.svg" title="Bootstrap" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276177/tailwindcss_vxrjfn.svg" title="Tailwind" alt="Redux " width="40" height="40"/>&nbsp;

@@ -74,7 +74,7 @@
   <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276175/jquery_n5dkos.svg" title="JQuery"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276175/react_mnu7gb.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276175/nextdotjs_i37rc1.svg" title="NextJS" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276177/redux_sr3klj.svg" title="Redux" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276177/redux_sr3klj.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276175/mui_clxjdo.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276175/nodedotjs_gjf5ux.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276178/express_grwtie.svg" title="ExpressJS" alt="NodeJS" width="40" height="40"/>&nbsp;

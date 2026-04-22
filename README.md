@@ -61,24 +61,24 @@
 
 &nbsp;
 <div align='center'>
-  <img style="background: white;" src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276180/html5_axmp6t.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276178/css3_x7fsyd.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276177/sass_xmwjzs.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276178/bootstrap_trdqqy.svg" title="Bootstrap" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276177/tailwindcss_vxrjfn.svg" title="Tailwind" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276180/javascript_ccefhw.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276177/typescript_ke2z5x.svg" title="TypeScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276179/gulp_azvefw.svg" title="gulp" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276177/webpack_fwagkn.svg" title="Webpack" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276177/vite_weil2e.svg" title="Vite"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276175/jquery_n5dkos.svg" title="JQuery"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276175/react_mnu7gb.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276175/nextdotjs_i37rc1.svg" title="NextJS" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276177/redux_sr3klj.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276175/mui_clxjdo.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276175/nodedotjs_gjf5ux.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276178/express_grwtie.svg" title="ExpressJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276175/mongodb_ejcqnu.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img style="background: white;" src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276180/html5_axmp6t.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276178/css3_x7fsyd.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276177/sass_xmwjzs.svg" title="SASS" alt="SASS" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276178/bootstrap_trdqqy.svg" title="Bootstrap" alt="Java" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276177/tailwindcss_vxrjfn.svg" title="Tailwind" alt="Redux " width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276180/javascript_ccefhw.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276177/typescript_ke2z5x.svg" title="TypeScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276179/gulp_azvefw.svg" title="gulp" alt="JavaScript" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276177/webpack_fwagkn.svg" title="Webpack" alt="JavaScript" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276177/vite_weil2e.svg" title="Vite"  alt="Gatsby" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276175/jquery_n5dkos.svg" title="JQuery"  alt="Gatsby" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276175/react_mnu7gb.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276175/nextdotjs_i37rc1.svg" title="NextJS" alt="React" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276177/redux_sr3klj.svg" title="Redux" alt="Redux" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276175/mui_clxjdo.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276175/nodedotjs_gjf5ux.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276178/express_grwtie.svg" title="ExpressJS" alt="NodeJS" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dp9ksc7yx/image/upload/v1704276175/mongodb_ejcqnu.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
 </div>
 &nbsp;
 
